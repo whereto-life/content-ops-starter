@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Grow your business 10x faster
+      text: ''
       color: text-dark
       styles:
         self:
