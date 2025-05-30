@@ -10,8 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |
-      ![](/images/whereto%20banner.svg)
+    text: ''
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
